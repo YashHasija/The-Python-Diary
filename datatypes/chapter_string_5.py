@@ -7,3 +7,5 @@ chai_description = "aromatic and bold"
 print(f'first word: {chai_description[:8]}') #indexing and slicing
 print(f'last word: {chai_description[12:]}')
 print(f'last word: {chai_description[::-1]}')
+
+
