@@ -16,5 +16,5 @@ print(f'ratio is G {ginger_ratio} and c {cardamom_ratio} ')
 
 #MEMBERSHIP
 print(f'Is ginger in masala spices ? {'ginger'in masala_spices}')
-
+# to check if it is present or not 
 
