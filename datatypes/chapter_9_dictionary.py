@@ -44,4 +44,4 @@ print(f'updated chai order with customer note : {chai_customer_note}')
 
 #Lists and tuples store sequences, but only lists can be changed.
 #Sets store unique items, no order.
-D#ictionaries store data as key-value pairs.
+#ictionaries store data as key-value pairs.
